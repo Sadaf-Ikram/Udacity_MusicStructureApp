@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Musical Structure</string>
+    <string name="Chill_music">Chill_music</string>
+    <string name="Dance_music">Dance_Tune</string>
+    <string name="romantic_music">Romantic_Hits</string>
+    <string name="play_button">Play</string>
+    <string name="pause_button">Pause</string>
+    <string name="stop_button">Stop</string>
+</resources>
